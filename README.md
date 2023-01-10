@@ -38,7 +38,7 @@
 
 - Platform: LinkedIn Learning
 - Course Name: Learning PowerShell
-- Course URL: https://www.linkedin.com/learning/learning-powershell/how-to-read-the-language
+- Course URL: https://www.linkedin.com/learning/learning-powershell
 
 ### Instructor
 
